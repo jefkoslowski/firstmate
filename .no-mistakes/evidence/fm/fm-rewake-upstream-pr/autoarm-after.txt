@@ -1,0 +1,4 @@
+ok - auto-arm: a branch-outcome hand-back rewakes main after its turn ended the need, and nothing else does
+ok - auto-arm: a host that stood down closes silently without a retry
+ok - auto-arm: a host handback delivers every host line, while its wake lines keep their cap
+/tmp/fm-run-autoarm.sh  test_host_stand_down_is_silent   0.89s user 1.75s system 43% cpu 6.044 total

@@ -1,0 +1,1 @@
+not ok - stop: a branch-outcome hand-back must rewake main after the need vanished: expected exit 2, got 0
